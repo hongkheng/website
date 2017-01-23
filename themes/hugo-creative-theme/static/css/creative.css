@@ -243,6 +243,11 @@ aside, #credits {
     margin: 0 auto;
 }
 
+.hero-svg {
+    width: 450px;
+    height: 450px;
+}
+
 .cover-title {
     margin-top: -10px;
 }
@@ -568,7 +573,7 @@ fieldset[disabled] .btn-primary.active {
         -ms-flex-pack: center;
     justify-content: center;
     -ms-flex-wrap: wrap;
-        flex-wrap: wrap;            
+        flex-wrap: wrap;
 }
 
 .btns-list > a {
